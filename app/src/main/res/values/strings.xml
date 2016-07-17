@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BluetoothPaymentExample</string>
+    <string name="enter_money_here">Enter money here.</string>
+    <string name="let_receive">Let\'s receive</string>
+    <string name="let_pay">Let\'s pay</string>
+    <string name="please_wait_for_other_device">Please wait for other device.</string>
+    <string name="you_pay_xxx_bath">You pay xxx bath.</string>
+    <string name="enter_your_pin">Enter your pin.</string>
+    <string name="cancel">cancel</string>
+    <string name="yes">yes</string>
+    <string name="empty_view">Empty view</string>
+</resources>
